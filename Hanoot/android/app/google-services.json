@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "233053497798",
+    "firebase_url": "https://hanoot-8d71a.firebaseio.com",
+    "project_id": "hanoot-8d71a",
+    "storage_bucket": "hanoot-8d71a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233053497798:android:44b59dde0ed60b9bf5eac7",
+        "android_client_info": {
+          "package_name": "com.gibran.hanoot.store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233053497798-hls8k1mlicadn6c9htr8dgijsogkqlca.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gibran.hanoot.store",
+            "certificate_hash": "def8d4914d4d9d6ecbb15011146f6f8b727a9d8c"
+          }
+        },
+        {
+          "client_id": "233053497798-54dsohof48dctjhe2a93tpdoo0ufc747.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLsvlcjk2okJ6PbXcvYhlR9wn02qM6jjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233053497798-54dsohof48dctjhe2a93tpdoo0ufc747.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "233053497798-2kht4imi1g11ka1psbbkqfa39pmu1ea8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gibran.hanoot.store"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

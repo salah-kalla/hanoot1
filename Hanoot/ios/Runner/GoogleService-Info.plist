@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>233053497798-2kht4imi1g11ka1psbbkqfa39pmu1ea8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.233053497798-2kht4imi1g11ka1psbbkqfa39pmu1ea8</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCZQ0RVL0twXazdTeQjlNt36yXyK_frtXU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>233053497798</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.gibran.hanoot.store</string>
+	<key>PROJECT_ID</key>
+	<string>hanoot-8d71a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>hanoot-8d71a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:233053497798:ios:da60f0b975857a94f5eac7</string>
+	<key>DATABASE_URL</key>
+	<string>https://hanoot-8d71a.firebaseio.com</string>
+</dict>
+</plist>
